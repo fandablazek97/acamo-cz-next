@@ -42,7 +42,7 @@ export default function Home() {
           How to contact us
         </Heading>
         <Paragraph>
-          Say hello to as at <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-950 hover:no-underline">hello@acamo.cz</a> or call: <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-950 hover:no-underline">+420 775 210 897</a>
+          Say hello to as at <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">hello@acamo.cz</a> or call: <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">+420 775 210 897</a>
         </Paragraph>
       </section>
 
