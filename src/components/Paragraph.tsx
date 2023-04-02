@@ -1,12 +1,8 @@
 import clsx from "clsx";
 
-type Props = {
-  
-}
-
 export default function Paragraph({
   children,
-  className
+  className = "",
 }: {
   children: React.ReactNode;
   className?: string;

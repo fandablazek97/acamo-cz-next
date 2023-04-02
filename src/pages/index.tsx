@@ -11,7 +11,7 @@ export default function Home() {
       <Heading level={1} hasMarginBottom>
         ACAMO DIGITAL
       </Heading>
-      <Paragraph>We're so busy crafting pixel-perfect designs for our clients that our own website has become the digital equivalent of a sticky note!</Paragraph>
+      <Paragraph>We&apos;re so busy crafting pixel-perfect designs for our clients that our own website has become the digital equivalent of a sticky note!</Paragraph>
       </header>
 
       <section className="py-6">
@@ -33,7 +33,7 @@ export default function Home() {
           Who did we work for?
         </Heading>
         <Paragraph>
-        F.H. Prager, Strava.cz, Pilsner Urquell, Bestaudio.cz, Skoda Transportation, Prager's, Nadační fond muži proti rakovině, Charles University, Jack Daniel's and much more…
+        F.H. Prager, Strava.cz, Pilsner Urquell, Bestaudio.cz, Skoda Transportation, Prager&apos;s, Nadační fond muži proti rakovině, Charles University, Jack Daniel&apos;s and much more…
         </Paragraph>
       </section>
 
