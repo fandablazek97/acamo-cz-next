@@ -23,7 +23,7 @@ export default function Home() {
         </Paragraph>
         <List className="mt-4">
           <List.Item>UI & UX;</List.Item>
-          <List.Item>App and website development;</List.Item>
+          <List.Item>App & website development;</List.Item>
           <List.Item>Brand design & strategy;</List.Item>
         </List>
       </section>
