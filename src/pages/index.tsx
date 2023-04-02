@@ -6,7 +6,7 @@ import Seo from "@/components/Seo";
 export default function Home() {
   return (
     <>
-      <Seo description="ACAMO DIGITAL is a design agency with 5+ years of experience crafting pixel-perfect designs for clients. Our specialties include UI/UX, app and website engineering, and brand strategy. We deliver high-quality, custom solutions tailored to our clients' unique needs. Our clients include Pilsner Urquell, Skoda Transportation, and more. Get in touch with us at hello@acamo.cz or +420 775 210 897" />
+      <Seo description="ACAMO DIGITAL is a design agency with 5+ years of experience crafting pixel-perfect designs for clients. Our specialties include UI/UX, app and website development, and brand strategy. We deliver high-quality, custom solutions tailored to our clients' unique needs. Our clients include Pilsner Urquell, Skoda Transportation, and more. Get in touch with us at hello@acamo.cz or +420 775 210 897" />
       <header className="pb-6">
       <Heading level={1} hasMarginBottom>
         ACAMO DIGITAL
@@ -42,7 +42,7 @@ export default function Home() {
           How to contact us
         </Heading>
         <Paragraph>
-          Say hello to as at <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">hello@acamo.cz</a> or call: <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">+420 775 210 897</a>
+          Say hello to as at <a href="mailto:hello@acamo.cz" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">hello@acamo.cz</a> or call: <a href="tel:+420775210897" className="underline hover:bg-white hover:text-zinc-900 hover:no-underline">+420 775 210 897</a>
         </Paragraph>
       </section>
 
