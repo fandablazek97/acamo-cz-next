@@ -3,6 +3,8 @@ import List from "@/components/List";
 import Paragraph from "@/components/Paragraph";
 import Seo from "@/components/Seo";
 
+// Test
+
 export default function Home() {
   return (
     <>
